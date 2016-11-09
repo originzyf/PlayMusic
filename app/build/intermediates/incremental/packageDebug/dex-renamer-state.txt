@@ -1,0 +1,7 @@
+#Wed Nov 09 16:18:49 CST 2016
+base.0=E\:\\PlayMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fa29c1ff93f3219228b040be6167930afff6535d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\PlayMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_16fe10fe41ae55151411ddeec96c2292f3e9217a\\classes.dex
+base.1=E\:\\PlayMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_16fe10fe41ae55151411ddeec96c2292f3e9217a
+file.0=E\:\\PlayMusic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fa29c1ff93f3219228b040be6167930afff6535d\\classes.dex

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4dedd4868fe832500c497cb0258d81bfd3ecb37f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_65bd4d854cdb5a759b4908b1af30890b5a4e7870\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d0837ed385c956f352d23fccf333e97ce1ac4ba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b72fb51d98cd051a2124706fdaefcb43fea87336\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_cb7c530e4c28d14e712e72ed3b30b2fae63ac31d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_045eb12e4c05ccc12a0b40b8a1f82c485e8094a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_71637eb86ed16eb6c2b4e9d11b231b6224233d09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6898d49f9ba8263b7dded364dd371758d2bbce07">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_16fe10fe41ae55151411ddeec96c2292f3e9217a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_1223b399522ad66c1abe7b435d74e4ff8e15560a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_307b6ec9b8ac36dafdb30568be444e805242a72a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_67ac0dee688726bec1b0a3265fda4b1501114b8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_fb908bbde35ace9de3ad98c8d4642833c0e3fe31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a4abd386368651fe801ffc5fa96a0d78ec78426b">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fa29c1ff93f3219228b040be6167930afff6535d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\PlayMusic\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\PlayMusic\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ab254c2469aa7c201b20c956237b52fcebb5e60b\classes.dex" />
+    </item>
+
+</items>

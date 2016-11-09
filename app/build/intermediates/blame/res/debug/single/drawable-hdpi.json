@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\PlayMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_next.png",
+        "source": "E:\\PlayMusic\\app\\src\\main\\res\\drawable-hdpi\\player_next.png"
+    },
+    {
+        "merged": "E:\\PlayMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\PlayMusic\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PlayMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pause.png",
+        "source": "E:\\PlayMusic\\app\\src\\main\\res\\drawable-hdpi\\player_pause.png"
+    },
+    {
+        "merged": "E:\\PlayMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_pre.png",
+        "source": "E:\\PlayMusic\\app\\src\\main\\res\\drawable-hdpi\\player_pre.png"
+    },
+    {
+        "merged": "E:\\PlayMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_stop.png",
+        "source": "E:\\PlayMusic\\app\\src\\main\\res\\drawable-hdpi\\player_stop.png"
+    },
+    {
+        "merged": "E:\\PlayMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\player_play.png",
+        "source": "E:\\PlayMusic\\app\\src\\main\\res\\drawable-hdpi\\player_play.png"
+    }
+]
